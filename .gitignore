@@ -1,0 +1,17 @@
+session.data.json
+node_modules/
+.node-persist/
+logs/
+stickers/*
+# managed by open-wa
+**.data.json
+**.node-persist**
+# end managed by open-wa
+
+*.mp4
+*.aac
+*.mp3
+*.opus
+*.wav
+
+zipzop-bot-79fe06c2a026.json
